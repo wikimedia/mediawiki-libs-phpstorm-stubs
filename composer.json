@@ -1,0 +1,6 @@
+{
+	"name": "mediawiki/phpstorm-stubs",
+	"description": "Fork of https://github.com/JetBrains/phpstorm-stubs/ for packagist.org publishing",
+	"license": "Apache-2.0",
+	"homepage": "https://github.com/JetBrains/phpstorm-stubs"
+}
