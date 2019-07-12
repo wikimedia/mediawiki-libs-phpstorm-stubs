@@ -8,4 +8,4 @@ Upstream has a pending pull request to add composer.json:
 https://github.com/JetBrains/phpstorm-stubs/pull/149
 
 Once merged and the package is published, this Wikimedia fork can be
-abandonned.
+abandoned.
